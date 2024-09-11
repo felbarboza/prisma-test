@@ -1,4 +1,4 @@
-import { BlogService } from "..//BlogService";
+import { BlogService } from "../BlogService";
 import { FakeRepository } from "./FakeRepository";
 import { Logger } from "winston";
 import { CreateBlogDTO } from "src/dtos/CreateBlogDTO";
